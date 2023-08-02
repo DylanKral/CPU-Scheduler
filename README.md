@@ -5,10 +5,14 @@ This program shows emulates a CPU scheduler and shows different algorithms that 
 To run this code, Enter make then pick a scheduling algorithm of your 
 choosing. After doing so do ./(algorithm) schedule.txt
 
-EX) make rr
+EX) 
+
+    make rr
     
     ./rr schedule.txt
-EX) make fcfs
+EX) 
+
+    make fcfs
     
     ./fcfs schedule.txt
 
