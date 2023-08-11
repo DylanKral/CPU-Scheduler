@@ -21,3 +21,10 @@ EX)
 The program shows the turn around time and the waiting time for each task, as well as the tasks that the list contains. At the end, it will 
 calculate the average turnaround time and average waiting time for all
 of the tasks.
+
+
+The following are the various algorithms implemented.
+    Shortest Job first (SJf)
+    First come first serve (FCFS)
+    Priority
+    Round Robin (rr)
